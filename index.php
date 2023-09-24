@@ -1,3 +1,1 @@
-<html>
-    <head>PHP OOP</head>
-</html>
+<?php echo hii; ?>
